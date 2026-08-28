@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "maa-vindhyavasini-packers-movers",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
